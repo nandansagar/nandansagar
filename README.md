@@ -40,7 +40,7 @@
 </div>
 
 <div align="center">
-  <h4 align="left">📊 GitHub Stats:</h3>
+  <h4>📊 GitHub Stats:</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=nandansagar&theme=calm_pink&show_icons=true&locale=en" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandansagar&theme=calm_pink&hide_border=false" alt="GitHub Streak" />
 </div>
