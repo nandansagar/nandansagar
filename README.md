@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nandan sa</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=600&height=90&duration=5000&pause=1000&lines=Hello+I'm+Nandan+Sagar!!+🙏;&color=FFFFFF" />
+</h1>
 <h3 align="center">AWS Certified Cloud Practitioner | Linux Cloud Engineer solution architecture Devops || Python || SQL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandansagar&label=Profile%20views&color=0e75b6&style=flat" alt="nandansagar" /> </p>
