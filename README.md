@@ -3,7 +3,7 @@
 </h1>
 
 <div alaign="center">
-<h3 align="center">AWS Certified Cloud Practitioner | Linux Cloud Engineer solution architecture Devops || Python || SQL</h3>
+<h3 align="center">AWS Certified Cloud Practitioner | Linux Cloud Engineer Devops || SQL</h3>
 
 <p> <img src="https://komarev.com/ghpvc/?username=nandansagar&label=Profile%20views&color=0e75b6&style=flat" alt="nandansagar" /> </p>
 
